@@ -1,0 +1,30 @@
+FRONT END LANGUAGE USED
+========================
+
+* HTML5
+
+* CSS
+
+* JavaScript
+
+
+
+FRAMEWORK USED
+===============
+
+Bootstrap
+
+
+
+
+TEXTEDITOR/IDE
+===============
+
+Visual Studio Code
+
+
+
+LIBRARY USED
+=============
+
+PDF.js
